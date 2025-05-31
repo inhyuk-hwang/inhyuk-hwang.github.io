@@ -1,0 +1,15 @@
+title: "Inhyuk Hwang"
+#description: "Welcome to my Jekyll site on GitHub Pages"
+author: ""
+#email: "gn121259@naver.com"
+theme: minima
+
+baseurl: ""
+url: "https://gn121259.github.io"
+
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - cv.md
+  - research.md

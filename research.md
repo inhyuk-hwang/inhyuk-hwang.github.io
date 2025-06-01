@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 ## Publications
-### Race, immunity, and lifespan: Unraveling the effect of early-life exposure to malaria risk on lifespan
+#### Race, immunity, and lifespan: Unraveling the effect of early-life exposure to malaria risk on lifespan
 _Economics and Human Biology_, 54, 101382. 2024. (with [Sok Chul Hong](https://sites.google.com/site/sokchulhong/)) [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S1570677X24000340?casa_token=6rZ-QF8LF54AAAAA:oy6mFTRYK66mXhDeRSFQ96u3W6N9xjhpuTA5d4UGECl43-tktt87SrE7iQKIj0RQbiv8chq6)
 <details>
 <summary><u>Abstract</u> </summary>
@@ -17,7 +17,7 @@ Evidence suggests that genetic immunity to malaria in black veterans might contr
 </details>
 <br>
 
-### Mortality, Nutrition and Height in Early Colonial Korea
+#### Mortality, Nutrition and Height in Early Colonial Korea
 _Review of Economic History_, 67(2), 197–225. 2018. (in Korean) [[Link]](https://kiss.kstudy.com/Detail/Ar?key=3626004)
 <details>
 <summary><u>Abstract</u> </summary>
@@ -28,15 +28,15 @@ The determinants of stature can be changed in one country by the change of cultu
 ---
 
 ## Working Papers
-### <i>(Job market paper)</i> Avoiding the Risk, Bearing the Cost: Evidence from General Health Screening in Korea during the COVID-19 Pandemic
-<i>submitted</i>, (with [Sok Chul Hong](https://sites.google.com/site/sokchulhong/)) [[PDF]](https://www.dropbox.com/scl/fi/x7knwah9umqeo7zt1qiv6/Avoiding-the-Risk-Bearing-the-Cost.pdf?rlkey=5tb1pp8ftkg9v0sw46thzuzlr&st=ro4n7zkk&dl=0)
+#### <i>(Job market paper)</i> Avoiding the Risk, Bearing the Cost: Evidence from General Health Screening in Korea during the COVID-19 Pandemic
+<i>submitted</i> (with [Sok Chul Hong](https://sites.google.com/site/sokchulhong/)) [[PDF]](https://www.dropbox.com/scl/fi/x7knwah9umqeo7zt1qiv6/Avoiding-the-Risk-Bearing-the-Cost.pdf?rlkey=5tb1pp8ftkg9v0sw46thzuzlr&st=ro4n7zkk&dl=0)
 <details>
 <summary><u>Abstract</u> </summary>
 This study examines the unintended health consequences of voluntary responses to COVID-19. We focus on general health screening in Korea, using administrative data linking medical claims and screening records. We find that screening rates declined sharply in 2020 relative to counterfactual trends, particularly among individuals at higher risk of chronic diseases. Next, we assess the effect of forgone screening using propensity score matching and event study designs. Our estimates show that individuals who missed screening would have been more likely to initiate care for chronic diseases if screened. Such delays in management lead to more advanced conditions at care initiation.
 </details>
 <br>
 
-### The National Immunization Program for Children Expanded: Its Impact on Influenza Vaccination and Healthcare Use
+#### The National Immunization Program for Children Expanded: Its Impact on Influenza Vaccination and Healthcare Use
 [[PDF]](https://www.dropbox.com/scl/fi/l79saejfla0mxtsjwhkjj/The-National-Immunization-Program-for-Children-Expanded.pdf?rlkey=xpkw5o6hx0yhru2sd8cowg5oa&st=l37d351n&dl=0)
 <details>
 <summary><u>Abstract</u> </summary>
@@ -47,7 +47,7 @@ This study examines the impact of expanding the eligible age for child influenza
 ---
 
 ## Work in Progress
-### Impact of Negative News about Covid-19 Vaccine on Vaccination
+#### Impact of Negative News about Covid-19 Vaccine on Vaccination
 (with Sangbeom Kim, Dae-il Kim, [Sok Chul Hong](https://sites.google.com/site/sokchulhong/))
 <details>
 <summary><u>Abstract</u> </summary>
@@ -55,7 +55,7 @@ Informed decision-making is a fundamental mechanism within society, exemplified 
 </details>
 <br>
 
-### The Impact of Wedding Restrictions on Non-Marital Births during COVID-19: Evidence from South Korea 
+#### The Impact of Wedding Restrictions on Non-Marital Births during COVID-19: Evidence from South Korea 
 (with Dae-il Kim, [Sok Chul Hong](https://sites.google.com/site/sokchulhong/))
 <details>
 <summary><u>Abstract</u> </summary>

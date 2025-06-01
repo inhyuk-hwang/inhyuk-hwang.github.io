@@ -12,6 +12,8 @@ My work focuses on understanding how diseases and policies influence individual 
 
 <a href="/assets/InhyukHwang_CV.pdf" download>CV</a>
 <a href="/assets/InhyukHwang_CV.pdf" download style="text-decoration: underline; color: #0366d6;">CV</a>
+
+
 <!--
 <div style="display: flex; gap: 12px; margin-top: 20px;">
 

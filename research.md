@@ -17,7 +17,7 @@ Evidence suggests that genetic immunity to malaria in black veterans might contr
 </details>
 <br>  
 
-**Mortality, Nutrition and Height in Early Colonial Korea** 
+**Mortality, Nutrition and Height in Early Colonial Korea**  
 _Review of Economic History_, 67(2), 197–225. 2018. (in Korean) [[Link]](https://kiss.kstudy.com/Detail/Ar?key=3626004)
 <details>
 <summary><u>Abstract</u> </summary>

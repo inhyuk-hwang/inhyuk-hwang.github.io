@@ -5,7 +5,7 @@ title: ""
 
 <img src="/assets/profile3.jpg" alt="Profile Photo"  width="300">
 
-Welcome to my website!
+Thanks for visiting my website.  
 
 I am an applied microeconomist with interests in health economics and demographic economics.   
 My work focuses on understanding how diseases and policies influence individual health, healthcare utilization, and fertility decisions.  

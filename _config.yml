@@ -9,6 +9,7 @@ url: "https://gn121259.github.io"
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 header_pages:
   - research.md

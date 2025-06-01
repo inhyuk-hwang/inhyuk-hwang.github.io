@@ -4,7 +4,7 @@ title: ""
 ---
 
 <img src="/assets/profile3.jpg" alt="Profile Photo"
-     width="280"
+     width="280" height="350"
      style="display: block; margin-bottom: 20px;">
 
 Thanks for visiting my website!

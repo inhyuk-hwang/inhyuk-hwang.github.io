@@ -28,7 +28,7 @@ The determinants of stature can be changed in one country by the change of cultu
 ---
 
 ## Working Papers
-<i>(Job market paper)</i> Avoiding the Risk, Bearing the Cost: Evidence from General Health Screening in Korea during the COVID-19 Pandemic    
+**(Job market paper)** Avoiding the Risk, Bearing the Cost: Evidence from General Health Screening in Korea during the COVID-19 Pandemic    
 <i>submitted</i> (with [Sok Chul Hong](https://sites.google.com/site/sokchulhong/)) [[PDF]](https://www.dropbox.com/scl/fi/x7knwah9umqeo7zt1qiv6/Avoiding-the-Risk-Bearing-the-Cost.pdf?rlkey=5tb1pp8ftkg9v0sw46thzuzlr&st=ro4n7zkk&dl=0)
 <details>
 <summary><u>Abstract</u> </summary>

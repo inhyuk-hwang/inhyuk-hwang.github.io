@@ -5,7 +5,7 @@ title: ""
 
 <img src="/assets/profile3.jpg" alt="Profile Photo"
      width="280"
-     style="image-rendering: auto; display: block; margin-bottom: 20px;">
+     style="image-rendering: -webkit-optimize-contrast; display: block; margin-bottom: 20px;">
 
 Thanks for visiting my website!
 

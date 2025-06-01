@@ -46,7 +46,7 @@ This study examines the impact of expanding the eligible age for child influenza
 
 ---
 
-## Work in Progress
+## Works in Progress
 **Impact of Negative News about Covid-19 Vaccine on Vaccination**  
 (with Sangbeom Kim, Dae-il Kim, [Sok Chul Hong](https://sites.google.com/site/sokchulhong/))
 <details>

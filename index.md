@@ -3,7 +3,7 @@ layout: home
 title: ""
 ---
 
-<img src="/assets/profile3.jpg" alt="Profile Photo"  width="300">
+<img src="/assets/profile3.jpg" alt="Profile Photo"  width="280">
 
 Thanks for visiting my website!
 

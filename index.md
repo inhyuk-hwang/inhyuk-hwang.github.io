@@ -10,6 +10,9 @@ Welcome to my homepage!
 I am an applied microeconomist with interests in health economics and demographic economics.   
 My work focuses on understanding how diseases and policies influence individual health, healthcare utilization, and fertility decisions.  
 
+[CV](/assets/InhyukHwang_CV.pdf)
+
+<!--
 <div style="display: flex; gap: 12px; margin-top: 20px;">
 
   <a href="mailto:gn121259@naver.com" style="display: inline-block; padding: 8px 16px;
@@ -24,6 +27,7 @@ My work focuses on understanding how diseases and policies influence individual 
   </a>
 
 </div>
+--> 
 
 <!--For more details, please check my [CV](https://www.dropbox.com/scl/fi/7uq42ccgo7codcf527rxw/CV_InhyukHwang.pdf?rlkey=cbzqmvc3qq0hn5flkxiqqio09&st=m0jxd2yk&dl=0).  
 You can contact me at [gn121259@naver.com](mailto:gn121259@naver.com).--> 

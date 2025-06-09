@@ -5,7 +5,7 @@ author: ""
 theme: minima
 
 baseurl: ""
-url: "https://gn121259.github.io"
+url: "https://inhyuk-hwang.github.io"
 
 plugins:
   - jekyll-feed

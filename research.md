@@ -29,7 +29,7 @@ The determinants of stature can be changed in one country by the change of cultu
 
 ## Working Papers
 **(Job market paper)** Avoiding the Risk, Bearing the Cost: Evidence from General Health Screening in Korea during the COVID-19 Pandemic    
-<i>submitted</i> (with [Sok Chul Hong](https://sites.google.com/site/sokchulhong/)) [[PDF]](https://www.dropbox.com/scl/fi/x7knwah9umqeo7zt1qiv6/Avoiding-the-Risk-Bearing-the-Cost.pdf?rlkey=5tb1pp8ftkg9v0sw46thzuzlr&st=ro4n7zkk&dl=0)
+<i>submitted</i> (with [Sok Chul Hong](https://sites.google.com/site/sokchulhong/)) [[PDF]](https://www.dropbox.com/scl/fi/2gqgspo19v572byi4rqvx/Avoiding-the-Risk-Bearing-the-Cost.pdf?rlkey=u9wb9cuxtbck9b230ot5h4guw&st=9kjci1u8&dl=0)
 <details>
 <summary><u>Abstract</u> </summary>
 This study examines the unintended health consequences of voluntary responses to COVID-19. We focus on general health screening in Korea, using administrative data linking medical claims and screening records. We find that screening rates declined sharply in 2020 relative to counterfactual trends, particularly among individuals at higher risk of chronic diseases. Next, we assess the effect of forgone screening using propensity score matching and event study designs. Our estimates show that individuals who missed screening would have been more likely to initiate care for chronic diseases if screened. Such delays in management lead to more advanced conditions at care initiation.

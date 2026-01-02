@@ -37,8 +37,7 @@ This study examines the unintended health consequences of voluntary responses to
 <br>
 
 The National Immunization Program for Children Expanded: Its Impact on Influenza Vaccination and Healthcare Use  
-[[PDF]](https://www.dropbox.com/scl/fi/l79saejfla0mxtsjwhkjj/The-National-Immunization-Program-for-Children-Expanded.pdf?rlkey=xpkw5o6hx0yhru2sd8cowg5oa&st=l37d351n&dl=0)
-<details>
+[[PDF]](assets/National_Immunization_Program.pdf)
 <summary><u>Abstract</u> </summary>
 This study examines the impact of expanding the eligible age for child influenza vaccinations in Korea. To control for time trends in influenza vaccination rates, I estimate a difference-in-differences model using children not affected by the age expansion as a control group. Through this model, I find that expanding the program's eligible age significantly increased the vaccination rate of children aged 5-12 in the treatment group. This increase is mainly observed among households with incomes above the median, those with working mothers, and those living in areas with high access to healthcare facilities. Next, I use  National Health Information Database from the National Health Insurance Service (NHIS) to analyze changes in influenza-related healthcare utilization as the program's eligible age expanded. The results show that the estimates from the difference-in-differences model are not robust to time-varying confounding factors related to influenza incidence. To address this, I estimate a triple difference model that exploits temporal variation in the match between the influenza vaccine and prevalent viruses. The results show that influenza-related healthcare utilization decreased during periods of high match rates after the policy was implemented.
 </details>

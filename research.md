@@ -48,14 +48,14 @@ This study examines the impact of expanding the eligible age for child influenza
 
 ## Works in Progress
 Negative Vaccine Information and Adverse Event after COVID-19 Vaccination: Evidence from the Official Recognition of Causality in Korea    
-(with Sangbeom Kim, Dae-il Kim, [Sok Chul Hong](https://sites.google.com/site/sokchulhong/))
+(with Sangbeom Kim, Dae-il Kim, [Sok Chul Hong](https://sites.google.com/site/sokchulhong/)) [[Slides]](assets/Negative_Information_and_Adverse_Event.pdf)
 <details>
 <summary><u>Abstract</u> </summary>
 Information plays a crucial role in shaping vaccine-related behaviors. However, because the timing of exposure to vaccine information can trigger responses at different margins, focusing solely on vaccination uptake risks underestimating the overall effect of information. We exploit a major information shock—the Korean government’s recognition of a causal link between the Pfizer-BioNTech vaccine and myocarditis/pericarditis—to investigate its impact on healthcare utilization after vaccination. Using the K-COV-N cohort, an administrative dataset linking vaccination records and health insurance claims, we implement a difference-in-differences framework comparing individuals vaccinated around the announcement with not-yet-vaccinated controls. We find that exposure to the announcement increased adverse event–related healthcare utilization by about one percentage point from a 4.5% baseline. The increase was concentrated in general adverse events such as headache, fever, and muscle pain. Effects were most pronounced in clinics, suggesting precautionary care-seeking rather than acute health deterioration. These results indicate that, in a context of high vaccine uptake, negative vaccine information primarily reshapes post-vaccination risk perception, highlighting the importance of considering the costs of transparency in vaccine risk communication.
 </details>
 <br>
 
-The Impact of Wedding Restrictions on Non-Marital Births during COVID-19: Evidence from South Korea  
+Non-Marital Births and Marriage Postponement in South Korea  
 (with Dae-il Kim, [Sok Chul Hong](https://sites.google.com/site/sokchulhong/))
 <details>
 <summary><u>Abstract</u> </summary>

@@ -46,7 +46,7 @@ This study examines the impact of expanding the eligible age for child influenza
 
 ---
 
-## Works in Progress
+## Work in Progress
 Negative Vaccine Information and Adverse Event after COVID-19 Vaccination: Evidence from the Official Recognition of Causality in Korea    
 (with Sangbeom Kim, Dae-il Kim, [Sok Chul Hong](https://sites.google.com/site/sokchulhong/)) [[Slides]](assets/Negative_Information_and_Adverse_Event.pdf)
 <details>

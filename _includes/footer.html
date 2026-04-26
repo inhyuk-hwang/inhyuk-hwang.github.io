@@ -1,5 +1,43 @@
 <footer class="site-footer">
-  <div class="wrapper">
-    <!-- 빈 footer: 아무것도 출력되지 않음 -->
-  </div>
+  <p>
+    © {{ 'now' | date: "%Y" }} {{ site.title | escape }} ·
+    Last updated <span id="lastUpdated">{{ site.time | date: "%B %Y" }}</span>
+  </p>
 </footer>
+
+<script>
+(function () {
+  // ---- Theme toggle ----
+  var root = document.documentElement;
+  var KEY  = 'ihw-theme';
+  var saved = null;
+  try { saved = localStorage.getItem(KEY); } catch (e) {}
+  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  var initial = saved || (prefersDark ? 'dark' : 'light');
+  root.setAttribute('data-theme', initial);
+
+  var btn = document.getElementById('themeToggle');
+  if (btn) {
+    btn.addEventListener('click', function () {
+      var current = root.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+      var next = current === 'dark' ? 'light' : 'dark';
+      root.setAttribute('data-theme', next);
+      try { localStorage.setItem(KEY, next); } catch (e) {}
+    });
+  }
+
+  // ---- Abstract toggles ----
+  // Works on both <button class="abstract-toggle"> + sibling .abstract,
+  // and <details> elements rendered from research.md markdown.
+  document.querySelectorAll('.abstract-toggle').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var target = btn.nextElementSibling;
+      if (!target || !target.classList.contains('abstract')) return;
+      var open = target.classList.toggle('is-open');
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      var label = btn.querySelector('.label');
+      if (label) label.textContent = open ? 'Hide abstract' : 'Show abstract';
+    });
+  });
+})();
+</script>

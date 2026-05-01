@@ -33,7 +33,7 @@ The determinants of stature can be changed in one country by the change of cultu
 {% for paper in site.data.papers %}
 ### {{ paper.title }}
 
-{{ paper.authors }}
+{% if paper.status %}*{{ paper.status }}*{% if paper.authors %} ({{ paper.authors }}){% endif %}{% else %}{% if paper.authors %}({{ paper.authors }}){% endif %}{% endif %}
 [\[{{ paper.link_text }}\]]({{ paper.file }}) · *Last updated: {{ paper.updated | date: "%Y-%m-%d" }}*
 
 <details>
@@ -46,21 +46,15 @@ The determinants of stature can be changed in one country by the change of cultu
 
 ## Work in Progress
 
-### Negative Vaccine Information and Adverse Event after COVID-19 Vaccination: Evidence from the Official Recognition of Causality in Korea
+{% for paper in site.data.wip %}
+### {{ paper.title }}
 
-(with Sangbeom Kim, Dae-il Kim, [Sok Chul Hong](https://sites.google.com/site/sokchulhong/))
-[\[Slides\]](/assets/Negative_Information_and_Adverse_Event.pdf)
-
-<details>
-<summary>Show abstract</summary>
-Information plays a crucial role in shaping vaccine-related behaviors. However, because the timing of exposure to vaccine information can trigger responses at different margins, focusing solely on vaccination uptake risks underestimating the overall effect of information. We exploit a major information shock—the Korean government's recognition of a causal link between the Pfizer-BioNTech vaccine and myocarditis/pericarditis—to investigate its impact on healthcare utilization after vaccination. Using the K-COV-N cohort, an administrative dataset linking vaccination records and health insurance claims, we implement a difference-in-differences framework comparing individuals vaccinated around the announcement with not-yet-vaccinated controls. We find that exposure to the announcement increased adverse event–related healthcare utilization by about one percentage point from a 4.5% baseline.
-</details>
-
-### Non-Marital Births and Marriage Postponement in South Korea
-
-(with Dae-il Kim, [Sok Chul Hong](https://sites.google.com/site/sokchulhong/))
+{% if paper.authors %}({{ paper.authors }}){% endif %}
+{% if paper.file %}[\[{{ paper.link_text }}\]]({{ paper.file }}){% if paper.updated %} · *Last updated: {{ paper.updated | date: "%Y-%m-%d" }}*{% endif %}{% endif %}
 
 <details>
 <summary>Show abstract</summary>
-During the COVID-19 pandemic, a steep increase in non-marital births was observed in South Korea, particularly among older mothers. We test the hypothesis that the increase in non marital births is a result of marriage delays caused by the pandemic. The COVID-19 pandemic likely raised the costs of marriage due to infection risks and quarantine policies restricting weddings. By exploiting variations in COVID-19 infection risk and wedding restrictions, this research will assess the pandemic's impact on marriage postponements and explore whether non-marital births served as a strategy to offset the anticipated decline in child health due to delayed childbirth.
+{{ paper.abstract }}
 </details>
+
+{% endfor %}

@@ -1,0 +1,15 @@
+- title: "Negative Vaccine Information and Adverse Event after COVID-19 Vaccination: Evidence from the Official Recognition of Causality in Korea"
+  authors: "with Sangbeom Kim, Dae-il Kim, [Sok Chul Hong](https://sites.google.com/site/sokchulhong/)"
+  link_text: "Slides"
+  file: /assets/Negative_Information_and_Adverse_Event.pdf
+  updated: 2026-05-01
+  abstract: |
+    Information plays a crucial role in shaping vaccine-related behaviors. However, because the timing of exposure to vaccine information can trigger responses at different margins, focusing solely on vaccination uptake risks underestimating the overall effect of information. We exploit a major information shock—the Korean government's recognition of a causal link between the Pfizer-BioNTech vaccine and myocarditis/pericarditis—to investigate its impact on healthcare utilization after vaccination. Using the K-COV-N cohort, an administrative dataset linking vaccination records and health insurance claims, we implement a difference-in-differences framework comparing individuals vaccinated around the announcement with not-yet-vaccinated controls. We find that exposure to the announcement increased adverse event–related healthcare utilization by about one percentage point from a 4.5% baseline.
+
+- title: "Non-Marital Births and Marriage Postponement in South Korea"
+  authors: "with Dae-il Kim, [Sok Chul Hong](https://sites.google.com/site/sokchulhong/)"
+  link_text: ""
+  file: ""
+  updated: ""
+  abstract: |
+    During the COVID-19 pandemic, a steep increase in non-marital births was observed in South Korea, particularly among older mothers. We test the hypothesis that the increase in non marital births is a result of marriage delays caused by the pandemic. The COVID-19 pandemic likely raised the costs of marriage due to infection risks and quarantine policies restricting weddings. By exploiting variations in COVID-19 infection risk and wedding restrictions, this research will assess the pandemic's impact on marriage postponements and explore whether non-marital births served as a strategy to offset the anticipated decline in child health due to delayed childbirth.

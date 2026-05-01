@@ -6,14 +6,10 @@ theme: minima
   
 baseurl: ""
 url: "https://inhyuk-hwang.github.io"
-
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-last-modified-at
-
 header_pages:
-  - research.md
+  - [research.md](http://research.md)
 
-last-modified-at:
-  date-format: '%Y-%m-%d'
+

@@ -30,25 +30,18 @@ The determinants of stature can be changed in one country by the change of cultu
 
 ## Working Papers
 
-### Avoiding the Risk, Bearing the Cost: Evidence from General Health Screening in Korea during the COVID-19 Pandemic
+{% for paper in site.data.papers %}
+### {{ paper.title }}
 
-*submitted* (with [Sok Chul Hong](https://sites.google.com/site/sokchulhong/))
-[\[PDF\]](/assets/Avoiding_the_Risk_Bearing_the_Cost.pdf)
-
-<details>
-<summary>Show abstract</summary>
-This study examines the unintended health consequences of voluntary responses to COVID-19. We focus on general health screening in Korea, using administrative data that link medical claims and screening records. At the national level, screening rates declined markedly in 2020, the first year of the pandemic, relative to counterfactual trends. Complementing this aggregate pattern, individual-level analysis reveals notable heterogeneity: declines were larger among those with higher predicted risk of chronic disease. We then assess the consequences of forgone screening, employing propensity score matching and event study designs. Our estimates show that, had they been screened, individuals who missed screening would have been more likely to initiate care for chronic diseases. The costs of missed screening were especially large among those at higher predicted risk of chronic disease. Such delays in management led to more advanced conditions at the time of care initiation. Our findings show that, even without strict quarantine policies, voluntary responses to infection can undermine preventive care, disproportionately affecting high-benefit groups. This underscores the importance of balancing infection control with the continuity of preventive care during health crises.
-</details>
-
-### Expanding Free Influenza Vaccination to Primary School Children: Evidence from Korea
-
-[\[PDF\]](/assets/Expanding_Free_Influenza_Vaccination.pdf) 
+{{ paper.authors }}
+[\[{{ paper.link_text }}\]]({{ paper.file }}) · *Last updated: {{ paper.updated | date: "%Y-%m-%d" }}*
 
 <details>
 <summary>Show abstract</summary>
-School-aged children play a central role in seasonal influenza transmission, with high attack rates and frequent contacts that amplify community spread. Publicly funded vaccination programs for this age group, however, remain uncommon internationally. This paper evaluates Korea's 2018 expansion of the National Immunization Program, which extended free vaccination to all children ages 5-12. Using nationally representative survey data, I find that difference-in-differences estimates show a sharp and persistent increase in vaccination coverage among newly eligible children. To evaluate the expansion's effect on influenza-related healthcare utilization, I turn to administrative claims data. Because pre-expansion utilization trends differ across the two age groups, I adopt a triple-difference design that exploits variation in vaccine match quality across time, and find a meaningful reduction in influenza-related claims during high-match months. A back-of-the-envelope calculation indicates that direct healthcare-cost savings offset a substantial share of the program's budgetary cost.
+{{ paper.abstract }}
 </details>
 
+{% endfor %}
 ---
 
 ## Work in Progress

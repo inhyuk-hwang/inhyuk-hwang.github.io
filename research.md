@@ -42,7 +42,7 @@ This study examines the unintended health consequences of voluntary responses to
 
 ### Expanding Free Influenza Vaccination to Primary School Children: Evidence from Korea
 
-[\[PDF\]](/assets/Expanding_Free_Influenza_Vaccination.pdf) · *Last updated: {% last_modified_at assets/Expanding_Free_Influenza_Vaccination.pdf %}%Y-%m-%d{% endlast_modified_at %}*
+[\[PDF\]](/assets/Expanding_Free_Influenza_Vaccination.pdf) 
 
 <details>
 <summary>Show abstract</summary>

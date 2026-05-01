@@ -72,3 +72,32 @@ Information plays a crucial role in shaping vaccine-related behaviors. However, 
 During the COVID-19 pandemic, a steep increase in non-marital births was observed in South Korea, particularly among older mothers. We test the hypothesis that the increase in non marital births is a result of marriage delays caused by the pandemic. The COVID-19 pandemic likely raised the costs of marriage due to infection risks and quarantine policies restricting weddings. By exploiting variations in COVID-19 infection risk and wedding restrictions, this research will assess the pandemic's impact on marriage postponements and explore whether non-marital births served as a strategy to offset the anticipated decline in child health due to delayed childbirth.
 </details>
 
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const repo = 'inhyuk-hwang/inhyuk-hwang.github.io';
+  const links = document.querySelectorAll('a[href*="/assets/"]');
+
+  links.forEach(function(link) {
+    const href = link.getAttribute('href');
+    const match = href.match(/\/assets\/.+/);
+    if (!match) return;
+    const filePath = match[0].replace(/^\//, '');
+
+    fetch('https://api.github.com/repos/' + repo + '/commits?path=' + filePath + '&per_page=1')
+      .then(r => r.json())
+      .then(data => {
+        if (Array.isArray(data) && data.length > 0) {
+          const date = new Date(data[0].commit.committer.date);
+          const formatted = date.toISOString().slice(0, 10);
+          const span = document.createElement('span');
+          span.style.cssText = 'font-size:0.85em; color:#888; margin-left:6px;';
+          span.textContent = '(Updated: ' + formatted + ')';
+          link.parentNode.insertBefore(span, link.nextSibling);
+        }
+      })
+      .catch(() => {});
+  });
+});
+</script>

@@ -11,6 +11,6 @@
   status: "submitted"
   link_text: "PDF"
   file: /assets/Expanding_Free_Influenza_Vaccination.pdf
-  updated: 2026-05-01
+  updated: 2026-06-14
   abstract: |
     School-aged children play a central role in seasonal influenza transmission, with high attack rates and frequent contacts that amplify community spread. Publicly funded vaccination programs for this age group, however, remain uncommon internationally. This paper evaluates Korea's 2018 expansion of the National Immunization Program, which extended free vaccination to all children ages 5-12. Using nationally representative survey data, I find that difference-in-differences estimates show a sharp and persistent increase in vaccination coverage among newly eligible children. To evaluate the expansion's effect on influenza-related healthcare utilization, I turn to administrative claims data. Because pre-expansion utilization trends differ across the two age groups, I adopt a triple-difference design that exploits variation in vaccine match quality across time, and find a meaningful reduction in influenza-related claims during high-match months. A back-of-the-envelope calculation indicates that direct healthcare-cost savings offset a substantial share of the program's budgetary cost.

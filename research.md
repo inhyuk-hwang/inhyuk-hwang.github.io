@@ -42,7 +42,7 @@ permalink: /research/
 ### {{ paper.title }}
 
 {% if paper.authors %}({{ paper.authors }}){% endif %}
-{% if paper.file %}[\[{{ paper.link_text }}\]]({{ paper.file }}){% endif %}{% if paper.file and paper.updated %} · {% endif %}{% if paper.updated %}*Last updated: {{ paper.updated | date: "%Y-%m-%d" }}*{% endif %}
+{% if paper.file %}[\[{{ paper.link_text }}\]]({{ paper.file }}){% if paper.updated %} · *Last updated: ...*{% endif %}{% endif %}
 
 <details>
 <summary>Show abstract</summary>
